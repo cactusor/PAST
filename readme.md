@@ -45,62 +45,57 @@
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [PAST3回目-C 「等比数列」](https://atcoder.jp/contests/past202005-open/tasks/past202005_c) | 巨大な数字を扱うことを避ける |  |
+| [ABC179-C 「A x B + C」](https://atcoder.jp/contests/abc179/tasks/abc179_c) | ループを減らす |  |
+| [ARC107-A 「Simple Math」](https://atcoder.jp/contests/arc107/tasks/arc107_a) | 計算式を変形してループを減らす |  |
 
 ### 6.7 累積和
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [ARC098-C 「Attention」](https://atcoder.jp/contests/arc098/tasks/arc098_a) | 累積和 |  |
 
 ### 6.8 貪欲法
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [PAST2回目-F 「タスクの消化」](https://atcoder.jp/contests/past202004-open/tasks/past202004_f) | シンプルな貪欲法 |  |
+| [典型アルゴリズム問題集-B 「区間スケジューリング問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_b) | 貪欲法で解ける問題の代表例 |  |
+| [全国統一プログラミング王決定戦予選-C 「Different Strokes」](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c) | ソートしてから貪欲法 |  |
 
 ### 6.9 二分探索
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [典型アルゴリズム問題集-A 「二分探索の練習問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | 二分探索の基本問題 |  |
+| [ABC146-C 「Buy an Integer」](https://atcoder.jp/contests/abc146/tasks/abc146_c) | 二分探索の基本問題 |  |
+| [ARC050-B 「花束」](https://atcoder.jp/contests/arc050/tasks/arc050_b) | 二分探索の形に持ち込む問題 |  |
 
 ### 6.10 最短路問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [ABC068-C 「Cat Snuke and a Voyage」](https://atcoder.jp/contests/abc068/tasks/arc079_a) | 最短路問題を幅優先探索で解く |  |
+| [[典型アルゴリズム問題集-D 「単一始点最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_d) | 最短路問題をダイクストラ法で解く |  |
+| [典型アルゴリズム問題集-E 「全点対最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_e) | 全点対最短路問題をワーシャルフロイド法で解く |  |
 
 ### 6.11 最小全域木問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [典型アルゴリズム問題集-F 「最小全域木問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_f) | プリム法 |  |
 
 ### 6.12 組み合わせと数え上げ問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [ABC129-C 「Typical Stairs」](https://atcoder.jp/contests/abc129/tasks/abc129_c) | 数え上げと動的計画法 |  |
+| [EDPC-H 「Grid 1」](https://atcoder.jp/contests/dp/tasks/dp_h) | 数え上げと動的計画法 |  |
 
 ### 6.13 クエリの処理
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [PAST2回目-G 「ストリング・クエリ」](https://atcoder.jp/contests/past202004-open/tasks/past202004_g) | 順番に処理する「時系列クエリ型」 |  |
+| [PAST1回目-K 「巨大企業」](https://atcoder.jp/contests/past201912-open/tasks/past201912_k) | すべての答えを一気に求める「独立クエリ型」 |  |
+| [PAST3回目-I 「行列操作」](https://atcoder.jp/contests/past202005-open/tasks/past202005_i) | 順番に処理する「時系列クエリ型」 |  |
