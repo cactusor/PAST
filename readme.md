@@ -11,7 +11,7 @@
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
 | [ABC007-C 「幅優先探索」](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | [■](./Chapter6/3/6-3-1.py) |
-| [PAST3回目-G 「グリッド金移動」](https://atcoder.jp/contests/past202005-open/tasks/past202005_g) | 幅優先探索 |  |
+| [PAST3回目-G 「グリッド金移動」](https://atcoder.jp/contests/past202005-open/tasks/past202005_g) | 幅優先探索 | [■](./Chapter6/3/6-3-ex1.py) |
 | [ATC001-A 「深さ優先探索」](https://atcoder.jp/contests/atc001/tasks/dfs_a) | 深さ優先探索 | [■](./Chapter6/3/6-3-2.py) |
 | [ABC114-C 「755」](https://atcoder.jp/contests/abc114/tasks/abc114_c) | 深さ優先探索 | [■](./Chapter6/3/6-3-3.py) |
 | [ABC161-D 「Lunlun Number」](https://atcoder.jp/contests/abc161/tasks/abc161_d) | 深さ優先探索 |  |
