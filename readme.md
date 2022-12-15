@@ -34,20 +34,20 @@
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [PAST1回目 「組分け」](https://atcoder.jp/contests/past201912-open/tasks/past201912_g) | 集合の全探索 |  |
-| [ABC167-C 「Skill Up」](https://atcoder.jp/contests/abc167/tasks/abc167_c) | 集合の全探索 |  |
-| [PAST1回目 「部品調達」](https://atcoder.jp/contests/past201912-open/tasks/past201912_i) | 集合を状態とする動的計画法 |  |
+| [PAST1回目-G 「組分け」](https://atcoder.jp/contests/past201912-open/tasks/past201912_g) | 集合の全探索 | [■](./Chapter6/5/6-5-1.py) |
+| [ABC167-C 「Skill Up」](https://atcoder.jp/contests/abc167/tasks/abc167_c) | 集合の全探索 | [■](./Chapter6/5/6-5-ex1.py) |
+| [PAST1回目-I 「部品調達」](https://atcoder.jp/contests/past201912-open/tasks/past201912_i) | 集合を状態とする動的計画法 | [■](./Chapter6/5/6-5-2.py) |
 | [ABC142-E 「Get Everything」](https://atcoder.jp/contests/abc142/tasks/abc142_e) | 集合を状態とする動的計画法 |  |
-| [典型アルゴリズム問題集-C 「巡回セールスマン問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_c) | 集合を状態とする動的計画法 |  |
-| [ARC017-C 「無駄なものが嫌いな人」](https://atcoder.jp/contests/arc017/tasks/arc017_3) | 半分全列挙 |  |
+| [典型アルゴリズム問題集-C 「巡回セールスマン問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_c) | 集合を状態とする動的計画法 | [■](./Chapter6/5/6-5-3.py |
+| [ARC017-C 「無駄なものが嫌いな人」](https://atcoder.jp/contests/arc017/tasks/arc017_3) | 半分全列挙 | [■](./Chapter6/5/6-5-4.py) |
 
 ### 6.6 数学的問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [PAST3回目-C 「等比数列」](https://atcoder.jp/contests/past202005-open/tasks/past202005_c) | 巨大な数字を扱うことを避ける |  |
-| [ABC179-C 「A x B + C」](https://atcoder.jp/contests/abc179/tasks/abc179_c) | ループを減らす |  |
-| [ARC107-A 「Simple Math」](https://atcoder.jp/contests/arc107/tasks/arc107_a) | 計算式を変形してループを減らす |  |
+| [PAST3回目-C 「等比数列」](https://atcoder.jp/contests/past202005-open/tasks/past202005_c) | 巨大な数字を扱うことを避ける | [■](./Chapter6/6/6-6-1.py) |
+| [ABC179-C 「A x B + C」](https://atcoder.jp/contests/abc179/tasks/abc179_c) | ループを減らす | [■](./Chapter6/6/6-6-2.py) |
+| [ARC107-A 「Simple Math」](https://atcoder.jp/contests/arc107/tasks/arc107_a) | 計算式を変形してループを減らす | [■](./Chapter6/6/6-6-3.py) |
 
 ### 6.7 累積和
 ---
