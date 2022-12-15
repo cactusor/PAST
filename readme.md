@@ -38,7 +38,7 @@
 | [ABC167-C 「Skill Up」](https://atcoder.jp/contests/abc167/tasks/abc167_c) | 集合の全探索 | [■](./Chapter6/5/6-5-ex1.py) |
 | [PAST1回目-I 「部品調達」](https://atcoder.jp/contests/past201912-open/tasks/past201912_i) | 集合を状態とする動的計画法 | [■](./Chapter6/5/6-5-2.py) |
 | [ABC142-E 「Get Everything」](https://atcoder.jp/contests/abc142/tasks/abc142_e) | 集合を状態とする動的計画法 |  |
-| [典型アルゴリズム問題集-C 「巡回セールスマン問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_c) | 集合を状態とする動的計画法 | [■](./Chapter6/5/6-5-3.py |
+| [典型アルゴリズム問題集-C 「巡回セールスマン問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_c) | 集合を状態とする動的計画法 | [■](./Chapter6/5/6-5-3.py) |
 | [ARC017-C 「無駄なものが嫌いな人」](https://atcoder.jp/contests/arc017/tasks/arc017_3) | 半分全列挙 | [■](./Chapter6/5/6-5-4.py) |
 
 ### 6.6 数学的問題
