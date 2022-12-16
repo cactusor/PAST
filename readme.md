@@ -53,37 +53,37 @@
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [ARC098-C 「Attention」](https://atcoder.jp/contests/arc098/tasks/arc098_a) | 累積和 |  |
+| [ARC098-C 「Attention」](https://atcoder.jp/contests/arc098/tasks/arc098_a) | 累積和 | [■](./Chapter6/7/6-7-1.py) |
 
 ### 6.8 貪欲法
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [PAST2回目-F 「タスクの消化」](https://atcoder.jp/contests/past202004-open/tasks/past202004_f) | シンプルな貪欲法 |  |
-| [典型アルゴリズム問題集-B 「区間スケジューリング問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_b) | 貪欲法で解ける問題の代表例 |  |
-| [全国統一プログラミング王決定戦予選-C 「Different Strokes」](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c) | ソートしてから貪欲法 |  |
+| [PAST2回目-F 「タスクの消化」](https://atcoder.jp/contests/past202004-open/tasks/past202004_f) | シンプルな貪欲法 | [■](./Chapter6/8/6-8-1.py) |
+| [典型アルゴリズム問題集-B 「区間スケジューリング問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_b) | 貪欲法で解ける問題の代表例 | [■](./Chapter6/8/6-8-2.py) |
+| [全国統一プログラミング王決定戦予選-C 「Different Strokes」](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c) | ソートしてから貪欲法 | [■](./Chapter6/8/6-8-3.py) |
 
 ### 6.9 二分探索
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [典型アルゴリズム問題集-A 「二分探索の練習問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | 二分探索の基本問題 |  |
-| [ABC146-C 「Buy an Integer」](https://atcoder.jp/contests/abc146/tasks/abc146_c) | 二分探索の基本問題 |  |
-| [ARC050-B 「花束」](https://atcoder.jp/contests/arc050/tasks/arc050_b) | 二分探索の形に持ち込む問題 |  |
+| [典型アルゴリズム問題集-A 「二分探索の練習問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | 二分探索の基本問題 | [■](./Chapter6/9/6-9-1.py) |
+| [ABC146-C 「Buy an Integer」](https://atcoder.jp/contests/abc146/tasks/abc146_c) | 二分探索の基本問題 | [■](./Chapter6/9/6-9-2.py) |
+| [ARC050-B 「花束」](https://atcoder.jp/contests/arc050/tasks/arc050_b) | 二分探索の形に持ち込む問題 | [■](./Chapter6/9/6-9-3.py) |
 
 ### 6.10 最短路問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [ABC068-C 「Cat Snuke and a Voyage」](https://atcoder.jp/contests/abc068/tasks/arc079_a) | 最短路問題を幅優先探索で解く |  |
-| [[典型アルゴリズム問題集-D 「単一始点最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_d) | 最短路問題をダイクストラ法で解く |  |
-| [典型アルゴリズム問題集-E 「全点対最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_e) | 全点対最短路問題をワーシャルフロイド法で解く |  |
+| [ABC068-C 「Cat Snuke and a Voyage」](https://atcoder.jp/contests/abc068/tasks/arc079_a) | 最短路問題を幅優先探索で解く | [■](./Chapter6/10/6-10-1.py) |
+| [[典型アルゴリズム問題集-D 「単一始点最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_d) | 最短路問題をダイクストラ法で解く | [■](./Chapter6/10/6-10-3.py) |
+| [典型アルゴリズム問題集-E 「全点対最短経路問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_e) | 全点対最短路問題をワーシャルフロイド法で解く | [■](./Chapter6/10/6-10-4.py) |
 
 ### 6.11 最小全域木問題
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [典型アルゴリズム問題集-F 「最小全域木問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_f) | プリム法 |  |
+| [典型アルゴリズム問題集-F 「最小全域木問題」](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_f) | プリム法 | [■](./Chapter6/11/6-11-1.py) |
 
 ### 6.12 組み合わせと数え上げ問題
 ---
