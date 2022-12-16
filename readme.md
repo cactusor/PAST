@@ -89,13 +89,13 @@
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [ABC129-C 「Typical Stairs」](https://atcoder.jp/contests/abc129/tasks/abc129_c) | 数え上げと動的計画法 |  |
-| [EDPC-H 「Grid 1」](https://atcoder.jp/contests/dp/tasks/dp_h) | 数え上げと動的計画法 |  |
+| [ABC129-C 「Typical Stairs」](https://atcoder.jp/contests/abc129/tasks/abc129_c) | 数え上げと動的計画法 | [■](./Chapter6/12/6-12-1.py) |
+| [EDPC-H 「Grid 1」](https://atcoder.jp/contests/dp/tasks/dp_h) | 数え上げと動的計画法 | [■](./Chapter6/12/6-12-2.py) |
 
 ### 6.13 クエリの処理
 ---
 | <center>問題</center> | キーワード | コード |
 |:--|:--:|:--:|
-| [PAST2回目-G 「ストリング・クエリ」](https://atcoder.jp/contests/past202004-open/tasks/past202004_g) | 順番に処理する「時系列クエリ型」 |  |
-| [PAST1回目-K 「巨大企業」](https://atcoder.jp/contests/past201912-open/tasks/past201912_k) | すべての答えを一気に求める「独立クエリ型」 |  |
-| [PAST3回目-I 「行列操作」](https://atcoder.jp/contests/past202005-open/tasks/past202005_i) | 順番に処理する「時系列クエリ型」 |  |
+| [PAST2回目-G 「ストリング・クエリ」](https://atcoder.jp/contests/past202004-open/tasks/past202004_g) | 順番に処理する「時系列クエリ型」 | [■](./Chapter6/13/6-13-1.py) |
+| [PAST1回目-K 「巨大企業」](https://atcoder.jp/contests/past201912-open/tasks/past201912_k) | すべての答えを一気に求める「独立クエリ型」 | [■](./Chapter6/13/6-13-2.py) |
+| [PAST3回目-I 「行列操作」](https://atcoder.jp/contests/past202005-open/tasks/past202005_i) | 順番に処理する「時系列クエリ型」 | [■](./Chapter6/13/6-13-3.py) |
