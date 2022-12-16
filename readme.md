@@ -22,7 +22,7 @@
 |:--|:--:|:--:|
 | [EDPC-A 「Frog1」](https://atcoder.jp/contests/dp/tasks/dp_a) | 1次元配列を用いた動的計画法 | [■](./Chapter6/04/6-4-1.py) |
 | [EDPC-B 「Frog2」](https://atcoder.jp/contests/dp/tasks/dp_b) | 1次元配列を用いた動的計画法 | [■](./Chapter6/04/6-4-ex1.py) |
-| [PAST3回目-H 「ハードル走」](https://atcoder.jp/contests/past202005-open/tasks/past202005_h) | 1次元配列を用いた動的計画法 | [■](./Chapter6/4/6-4-2.py) |
+| [PAST3回目-H 「ハードル走」](https://atcoder.jp/contests/past202005-open/tasks/past202005_h) | 1次元配列を用いた動的計画法 | [■](./Chapter6/04/6-4-2.py) |
 | [EDPC-D 「Knapsack1」](https://atcoder.jp/contests/dp/tasks/dp_d) | 多次元配列を用いた動的計画法 | [■](./Chapter6/04/6-4-4.py) |
 | [EDPC-E 「Knapsack2」](https://atcoder.jp/contests/dp/tasks/dp_e) | 多次元配列を用いた動的計画法(重さと価値が逆転) | [■](./Chapter6/04/6-4-ex2.py) |
 | [Typical DP Contest-A 「コンテスト」](https://atcoder.jp/contests/tdpc/tasks/tdpc_contest) | 多次元配列を用いた動的計画法(部分和問題) | [■](./Chapter6/04/6-4-5.py) |
