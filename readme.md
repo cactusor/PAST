@@ -99,3 +99,28 @@
 | [PAST2回目-G 「ストリング・クエリ」](https://atcoder.jp/contests/past202004-open/tasks/past202004_g) | 順番に処理する「時系列クエリ型」 | [■](./Chapter6/13/6-13-1.py) |
 | [PAST1回目-K 「巨大企業」](https://atcoder.jp/contests/past201912-open/tasks/past201912_k) | すべての答えを一気に求める「独立クエリ型」 | [■](./Chapter6/13/6-13-2.py) |
 | [PAST3回目-I 「行列操作」](https://atcoder.jp/contests/past202005-open/tasks/past202005_i) | 順番に処理する「時系列クエリ型」 | [■](./Chapter6/13/6-13-3.py) |
+
+<br>
+<br>
+
+## 7章 さらなる得点を狙うために
+---
+### 7.1 アルゴリズムを組み合わせる
+---
+| <center>問題</center> | キーワード | コード |
+|:--|:--:|:--:|
+| [PAST3回目-M 「行商計画問題」](https://atcoder.jp/contests/past202005-open/tasks/past202005_m) | 幅優先探索 + bitDP | [■](./Chapter7/01/7-1-1.py) |
+
+### 7.2 頻出考察テクニックを身につける
+---
+| <center>問題</center> | キーワード | コード |
+|:--|:--:|:--:|
+| [PAST3回目-J 「回転寿司」](https://atcoder.jp/contests/past202005-open/tasks/past202005_j) | 状態を観察して有用な性質を探す(広義の単調減少数列) | [■](./Chapter7/02/7-2-1.py) |
+| [PAST1回目-L 「グラデーション」](https://atcoder.jp/contests/past201912-open/tasks/past201912_l) | bit全探索 + プリム法 | [■](./Chapter7/02/7-2-2.py) |
+| [PAST1回目-J 「地ならし」](https://atcoder.jp/contests/past201912-open/tasks/past201912_j) | ダイクストラ法 + 全探索 | [■](./Chapter7/02/7-2-3.py) |
+
+### 7.3 複雑な解法を整理して解き切る
+---
+| <center>問題</center> | キーワード | コード |
+|:--|:--:|:--:|
+| [PAST2回目-K 「括弧」](https://atcoder.jp/contests/past202004-open/tasks/past202004_k) | 累積和 | [■](./Chapter7/03/7-3-1.py) |
